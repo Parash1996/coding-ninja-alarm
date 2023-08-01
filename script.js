@@ -58,4 +58,3 @@ function checkAlarms(hours, minutes, seconds, ampm) {
 
 updateTime();
 setInterval(updateTime, 1000);
-alert("hi om")
