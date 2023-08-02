@@ -1,4 +1,4 @@
-body {
+/* body {
     display: grid;
     place-items: center;
     height: 100vh;
@@ -15,8 +15,7 @@ body {
 #alarms-list li {
     display: flex;
     flex-direction: row;
-    /* gap: 20px; */
-    /* border: 1px solid; */
+
     justify-content:space-between;
 }
 #clock-container{
@@ -36,4 +35,4 @@ body {
 
 #clock-container .clock #time{
     font-size: 30px;
-}
+} */
